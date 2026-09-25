@@ -137,11 +137,32 @@ A catalog of reusable AI skills for organizing and extending AI-assisted workflo
 
 <div align="center">
 
-`Python` · `AI / ML` · `Embedded Systems` · `Arduino`
+<a href="https://www.python.org/"><img src="./assets/icons/python.svg" width="42" height="42" alt="Python" /></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/icons/javascript.svg" width="42" height="42" alt="JavaScript" /></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="./assets/icons/typescript.svg" width="42" height="42" alt="TypeScript" /></a>&nbsp;&nbsp;
+<a href="https://isocpp.org/"><img src="./assets/icons/cplusplus.svg" width="42" height="42" alt="C++" /></a>&nbsp;&nbsp;
+<a href="https://www.oracle.com/java/"><img src="./assets/icons/java.svg" width="42" height="42" alt="Java" /></a>&nbsp;&nbsp;
+<a href="https://dart.dev/"><img src="./assets/icons/dart.svg" width="42" height="42" alt="Dart" /></a>&nbsp;&nbsp;
+<a href="https://flutter.dev/"><img src="./assets/icons/flutter.svg" width="42" height="42" alt="Flutter" /></a>
 
-`CAN Bus` · `Automotive Electronics` · `Mechatronics`
+<br />
 
-`Desktop Development` · `Databases` · `Networking` · `Automation`
+<a href="https://www.arduino.cc/"><img src="./assets/icons/arduino.svg" width="42" height="42" alt="Arduino" /></a>&nbsp;&nbsp;
+<a href="https://www.raspberrypi.com/"><img src="./assets/icons/raspberrypi.svg" width="42" height="42" alt="Raspberry Pi" /></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img src="./assets/icons/mysql.svg" width="42" height="42" alt="MySQL" /></a>&nbsp;&nbsp;
+<a href="https://www.sqlite.org/"><img src="./assets/icons/sqlite.svg" width="42" height="42" alt="SQLite" /></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="./assets/icons/git.svg" width="42" height="42" alt="Git" /></a>&nbsp;&nbsp;
+<a href="https://github.com/"><img src="./assets/icons/github.svg" width="42" height="42" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linux.org/"><img src="./assets/icons/linux.svg" width="42" height="42" alt="Linux" /></a>&nbsp;&nbsp;
+<img src="./assets/icons/windows.svg" width="42" height="42" alt="Windows" />
+
+<br /><br />
+
+`AI / ML` &nbsp;•&nbsp; `Embedded Systems` &nbsp;•&nbsp; `CAN Bus` &nbsp;•&nbsp; `Automotive Electronics`
+
+<br />
+
+`Mechatronics` &nbsp;•&nbsp; `Desktop Development` &nbsp;•&nbsp; `Databases` &nbsp;•&nbsp; `Networking` &nbsp;•&nbsp; `Automation`
 
 </div>
 
@@ -149,7 +170,15 @@ A catalog of reusable AI skills for organizing and extending AI-assisted workflo
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/) &nbsp;·&nbsp; [Telegram](https://t.me/) &nbsp;·&nbsp; [Email](mailto:YOUR_EMAIL@example.com)
+<a href="https://www.linkedin.com/"><img src="./assets/icons/linkedin.svg" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/"><img src="./assets/icons/facebook.svg" width="42" height="42" alt="Facebook" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/"><img src="./assets/icons/instagram.svg" width="42" height="42" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="https://t.me/"><img src="./assets/icons/telegram.svg" width="42" height="42" alt="Telegram" /></a>&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com"><img src="./assets/icons/gmail.svg" width="42" height="42" alt="Email" /></a>
+
+<br />
+
+`LinkedIn` &nbsp;•&nbsp; `Facebook` &nbsp;•&nbsp; `Instagram` &nbsp;•&nbsp; `Telegram` &nbsp;•&nbsp; `Email`
 
 <br /><br />
 
