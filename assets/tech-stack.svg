@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Technology stack</title><desc id="desc">Local visual technology stack for software, AI, embedded and automotive engineering.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07111f"/><stop offset=".5" stop-color="#0b2239"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+ <style>
+  .card{fill:#0b2239;stroke:#00d9ff;stroke-opacity:.35;stroke-width:1.4}
+  .head{font:700 14px 'JetBrains Mono','Courier New',monospace;fill:#7df6ff;letter-spacing:2px}
+  .item{font:600 13px 'JetBrains Mono','Courier New',monospace;fill:#e6fbff;letter-spacing:1px}
+  .dot{fill:#00d9ff}
+ </style>
+</defs>
+<rect width="1200" height="310" rx="18" fill="url(#bg)" stroke="#00d9ff" stroke-opacity=".3"/>
+<g transform="translate(30 30)">
+ <rect class="card" width="260" height="250" rx="14"/><text class="head" x="24" y="36">LANGUAGES</text>
+ <circle class="dot" cx="26" cy="72" r="4"/><text class="item" x="42" y="77">Python</text><circle class="dot" cx="26" cy="108" r="4"/><text class="item" x="42" y="113">JavaScript / TypeScript</text><circle class="dot" cx="26" cy="144" r="4"/><text class="item" x="42" y="149">C / C++</text><circle class="dot" cx="26" cy="180" r="4"/><text class="item" x="42" y="185">Java / Dart</text><circle class="dot" cx="26" cy="216" r="4"/><text class="item" x="42" y="221">HTML / CSS</text>
+</g>
+<g transform="translate(320 30)">
+ <rect class="card" width="260" height="250" rx="14"/><text class="head" x="24" y="36">AI &amp; SOFTWARE</text>
+ <circle class="dot" cx="26" cy="72" r="4"/><text class="item" x="42" y="77">AI Agents</text><circle class="dot" cx="26" cy="108" r="4"/><text class="item" x="42" y="113">Automation</text><circle class="dot" cx="26" cy="144" r="4"/><text class="item" x="42" y="149">Desktop Apps</text><circle class="dot" cx="26" cy="180" r="4"/><text class="item" x="42" y="185">Databases</text><circle class="dot" cx="26" cy="216" r="4"/><text class="item" x="42" y="221">Networking</text>
+</g>
+<g transform="translate(610 30)">
+ <rect class="card" width="260" height="250" rx="14"/><text class="head" x="24" y="36">EMBEDDED</text>
+ <circle class="dot" cx="26" cy="72" r="4"/><text class="item" x="42" y="77">Arduino</text><circle class="dot" cx="26" cy="108" r="4"/><text class="item" x="42" y="113">Microcontrollers</text><circle class="dot" cx="26" cy="144" r="4"/><text class="item" x="42" y="149">Control Systems</text><circle class="dot" cx="26" cy="180" r="4"/><text class="item" x="42" y="185">IoT Prototypes</text><circle class="dot" cx="26" cy="216" r="4"/><text class="item" x="42" y="221">Mechatronics</text>
+</g>
+<g transform="translate(900 30)">
+ <rect class="card" width="260" height="250" rx="14"/><text class="head" x="24" y="36">AUTOMOTIVE</text>
+ <circle class="dot" cx="26" cy="72" r="4"/><text class="item" x="42" y="77">CAN Bus</text><circle class="dot" cx="26" cy="108" r="4"/><text class="item" x="42" y="113">Car Screens</text><circle class="dot" cx="26" cy="144" r="4"/><text class="item" x="42" y="149">Vehicle Systems</text><circle class="dot" cx="26" cy="180" r="4"/><text class="item" x="42" y="185">Diagnostics</text><circle class="dot" cx="26" cy="216" r="4"/><text class="item" x="42" y="221">Electronics</text>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+<title id="title">Abdulrahman Al-Zubaidi introduction</title><desc id="desc">Animated introduction for a software and electronics engineer.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07111f"/><stop offset=".5" stop-color="#0b2239"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#00d9ff" stop-opacity="0"/><stop offset=".5" stop-color="#00d9ff"/><stop offset="1" stop-color="#00d9ff" stop-opacity="0"/></linearGradient>
+ <style>
+  .headline{font:700 34px 'JetBrains Mono','Courier New',monospace;letter-spacing:2px;fill:#fff}
+  .sub{font:600 15px 'JetBrains Mono','Courier New',monospace;letter-spacing:3px;fill:#7df6ff}
+  .small{font:500 12px 'JetBrains Mono','Courier New',monospace;letter-spacing:2px;fill:#9bdce8}
+  .cursor{fill:#00d9ff;animation:blink 1s steps(2,end) infinite}
+  .bar{fill:url(#line);animation:slide 4s ease-in-out infinite}
+  .ring{fill:none;stroke:#00d9ff;stroke-opacity:.18;stroke-width:1;stroke-dasharray:3 10;animation:spin 16s linear infinite;transform-origin:600px 105px}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes slide{0%,100%{transform:translateX(-250px)}50%{transform:translateX(250px)}}
+  @keyframes spin{to{transform:rotate(360deg)}}
+ </style>
+</defs>
+<rect width="1200" height="210" rx="18" fill="url(#bg)" stroke="#00d9ff" stroke-opacity=".35"/>
+<ellipse class="ring" cx="600" cy="105" rx="430" ry="65"/><ellipse class="ring" cx="600" cy="105" rx="520" ry="82"/>
+<rect class="bar" x="0" y="0" width="320" height="210" opacity=".14"/>
+<g text-anchor="middle">
+ <text class="small" x="600" y="43">SOFTWARE  /  ELECTRONICS  /  EMBEDDED SYSTEMS</text>
+ <text class="headline" x="600" y="103">ABDULRAHMAN AL-ZUBAIDI<tspan class="cursor">_</tspan></text>
+ <text class="sub" x="600" y="140">BUILDING SMART SYSTEMS FROM CODE TO CIRCUIT</text>
+ <path d="M420 164H780" stroke="#00d9ff" stroke-width="2" stroke-linecap="round"/>
+ <text class="small" x="600" y="190">PYTHON  •  AI  •  ARDUINO  •  AUTOMOTIVE  •  MECHATRONICS</text>
+</g>
+</svg>
