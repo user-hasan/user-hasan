@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- الصورة الرئيسية الأصلية المرفقة -->
-<img src="./assets/developer-banner.png" width="100%" alt="Abdulrahman Al-Zubaidi working on software and electronics" />
+<img src="./assets/profile-readme-banner.jpg" width="100%" alt="Abdulrahman Al-Zabidi working on software and electronics" />
 
 <br />
 
-<img src="./assets/animated-intro.svg" width="100%" alt="Animated Abdulrahman Al-Zubaidi introduction" />
+<img src="./assets/animated-intro.svg" width="100%" alt="Animated Abdulrahman Al-Zabidi introduction" />
 
 </div>
 
@@ -21,7 +21,7 @@
 
 > **I build systems where software meets the physical world.**
 
-I’m **Abdulrahman Al-Zubaidi**, a Software and Electronics Engineer from **Yemen**. I work at the intersection of software engineering, embedded systems, automotive technology, mechatronics, and artificial intelligence.
+I’m **Abdulrahman Al-Zabidi**, a Software and Electronics Engineer from **Yemen**. I work at the intersection of software engineering, embedded systems, automotive technology, mechatronics, and artificial intelligence.
 
 I enjoy transforming ideas into practical systems: desktop applications, database tools, Arduino prototypes, automotive electronics, and AI-powered workflows. My engineering loop is simple: understand the problem, design the system, build it carefully, test it honestly, and improve it continuously.
 
@@ -190,7 +190,7 @@ A catalog of reusable AI skills for organizing and extending AI-assisted workflo
 
 <!--
 CUSTOMIZATION NOTES
-1. The original main image is intentionally kept as the first visual: ./assets/developer-banner.png
+1. The original main image is intentionally kept as the first visual: ./assets/profile-readme-banner.jpg
 2. All important visual assets are local SVG/PNG files, so they do not depend on external image services.
 3. Replace the social links and YOUR_EMAIL@example.com with real contact details when ready.
 -->
