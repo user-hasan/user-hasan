@@ -1,1 +1,125 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc"><title id="title">Abdulrahman Al-Zabidi introduction</title><desc id="desc">Clean animated royal-blue introduction banner.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03164d"/><stop offset=".48" stop-color="#075bd4"/><stop offset="1" stop-color="#03246f"/></linearGradient><radialGradient id="light"><stop stop-color="#68baff" stop-opacity=".55"/><stop offset="1" stop-color="#1680ff" stop-opacity="0"/></radialGradient><linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".3"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><style>.headline{font:700 34px 'JetBrains Mono','Courier New',monospace;letter-spacing:2px;fill:#fff}.sub{font:600 15px 'JetBrains Mono','Courier New',monospace;letter-spacing:3px;fill:#c6e7ff}.small{font:500 12px 'JetBrains Mono','Courier New',monospace;letter-spacing:2px;fill:#a9d7ff}.orb{fill:none;stroke:#8dcbff;stroke-opacity:.18;stroke-width:2}.shine{fill:url(#shine);animation:slide 5s ease-in-out infinite}.pulse{animation:pulse 3s ease-in-out infinite}@keyframes slide{0%,100%{transform:translateX(-520px)}50%{transform:translateX(520px)}}@keyframes pulse{0%,100%{opacity:.5;transform:scale(1)}50%{opacity:1;transform:scale(1.06)}}</style></defs><rect width="1200" height="210" rx="22" fill="url(#bg)"/><circle cx="170" cy="30" r="210" fill="url(#light)"/><circle cx="1060" cy="210" r="280" fill="url(#light)" opacity=".5"/><ellipse class="orb" cx="600" cy="108" rx="470" ry="76"/><ellipse class="orb" cx="600" cy="108" rx="540" ry="94"/><path d="M110 166C350 82 830 235 1090 84" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="2"/><rect class="shine" x="0" y="0" width="250" height="210" opacity=".16"/><g text-anchor="middle" class="pulse"><text class="small" x="600" y="43">SOFTWARE  /  ELECTRONICS  /  EMBEDDED SYSTEMS</text><text class="headline" x="600" y="103">ABDULRAHMAN AL-ZABIDI</text><text class="sub" x="600" y="140">BUILDING SMART SYSTEMS FROM CODE TO CIRCUIT</text><path d="M420 164H780" stroke="#b8e5ff" stroke-width="2" stroke-linecap="round" opacity=".8"/><text class="small" x="600" y="190">PYTHON  •  AI  •  ARDUINO  •  AUTOMOTIVE  •  MECHATRONICS</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 300" role="img" aria-labelledby="title desc">
+  <title id="title">Abdulrahman Al-Zabidi — Software and Electronics Engineer</title>
+  <desc id="desc">Futuristic animated banner showing a glowing cube, circuit paths, data particles, and the words Software, Electronics, Embedded Systems, and AI.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.42" stop-color="#111b4d"/>
+      <stop offset="1" stop-color="#082f49"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="cyanLine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#a5f3fc" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#22d3ee" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#8b5cf6" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#93c5fd" stroke-opacity=".08"/>
+      <circle cx="1" cy="1" r="1" fill="#67e8f9" fill-opacity=".18"/>
+    </pattern>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .headline{font:700 35px 'JetBrains Mono','Courier New',monospace;letter-spacing:4px;fill:#f8fafc}
+      .sub{font:600 15px 'JetBrains Mono','Courier New',monospace;letter-spacing:3px;fill:#bae6fd}
+      .micro{font:600 11px 'JetBrains Mono','Courier New',monospace;letter-spacing:2px;fill:#67e8f9}
+      .label{font:600 10px 'JetBrains Mono','Courier New',monospace;letter-spacing:1.8px;fill:#c4b5fd}
+      .wire{fill:none;stroke:#38bdf8;stroke-opacity:.42;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:2 10;animation:flow 7s linear infinite}
+      .wire2{fill:none;stroke:#a78bfa;stroke-opacity:.34;stroke-width:1.2;stroke-linecap:round;stroke-dasharray:1 13;animation:flowReverse 9s linear infinite}
+      .orb{fill:none;stroke:url(#edge);stroke-opacity:.28;stroke-width:1.5}
+      .particle{fill:#67e8f9;filter:url(#softGlow);animation:twinkle 3.5s ease-in-out infinite}
+      .particle2{fill:#c4b5fd;filter:url(#softGlow);animation:twinkle 4.5s ease-in-out infinite reverse}
+      .cube{transform-origin:1100px 145px;animation:cubeFloat 6s ease-in-out infinite}
+      .cubeCore{transform-origin:1100px 145px;animation:cubeSpin 14s linear infinite}
+      .scanner{animation:scan 4s ease-in-out infinite}
+      .pulse{animation:pulse 4s ease-in-out infinite}
+      .type{animation:typeGlow 4s ease-in-out infinite}
+      @keyframes flow{to{stroke-dashoffset:-120}}
+      @keyframes flowReverse{to{stroke-dashoffset:120}}
+      @keyframes twinkle{0%,100%{opacity:.2;transform:scale(.7)}50%{opacity:1;transform:scale(1.35)}}
+      @keyframes cubeFloat{0%,100%{transform:translateY(4px) rotate(-2deg)}50%{transform:translateY(-9px) rotate(2deg)}}
+      @keyframes cubeSpin{0%,100%{transform:scale(1)}50%{transform:scale(1.035)}}
+      @keyframes scan{0%,100%{transform:translateY(-46px);opacity:.2}50%{transform:translateY(46px);opacity:.9}}
+      @keyframes pulse{0%,100%{opacity:.7}50%{opacity:1}}
+      @keyframes typeGlow{0%,100%{fill:#f8fafc}50%{fill:#cffafe}}
+    </style>
+  </defs>
+
+  <rect width="1400" height="300" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1398" height="298" rx="25" fill="url(#grid)"/>
+  <circle cx="230" cy="100" r="300" fill="url(#glow)"/>
+  <circle cx="1170" cy="200" r="280" fill="url(#violetGlow)"/>
+
+  <g opacity=".9">
+    <path class="wire" d="M0 52H150L184 86H278L321 43H420"/>
+    <path class="wire2" d="M0 238H112L148 202H260L304 246H455"/>
+    <path class="wire" d="M960 36H1038L1067 65H1178L1210 33H1400"/>
+    <path class="wire2" d="M940 266H1012L1048 230H1160L1197 266H1400"/>
+    <path class="wire" d="M72 150H166L198 118H300"/>
+    <path class="wire2" d="M1125 126H1220L1254 160H1392"/>
+    <circle cx="184" cy="86" r="4" fill="#67e8f9"/>
+    <circle cx="148" cy="202" r="4" fill="#a78bfa"/>
+    <circle cx="1067" cy="65" r="4" fill="#67e8f9"/>
+    <circle cx="1048" cy="230" r="4" fill="#a78bfa"/>
+  </g>
+
+  <g class="particle"><circle cx="96" cy="78" r="2"/><circle cx="330" cy="232" r="2"/><circle cx="420" cy="64" r="1.8"/><circle cx="838" cy="50" r="2"/><circle cx="1298" cy="94" r="2"/></g>
+  <g class="particle2"><circle cx="56" cy="198" r="1.8"/><circle cx="376" cy="110" r="2"/><circle cx="785" cy="252" r="2"/><circle cx="1260" cy="226" r="1.8"/><circle cx="1350" cy="156" r="2"/></g>
+
+  <g text-anchor="middle">
+    <text class="micro" x="590" y="55">SOFTWARE  /  ELECTRONICS  /  EMBEDDED SYSTEMS  /  AI</text>
+    <text class="headline type" x="590" y="118">ABDULRAHMAN AL-ZABIDI</text>
+    <text class="sub pulse" x="590" y="154">BUILDING SMART SYSTEMS FROM CODE TO CIRCUIT</text>
+    <rect x="345" y="177" width="490" height="1" fill="url(#cyanLine)"/>
+    <text class="label" x="590" y="204">PYTHON   •   MACHINE LEARNING   •   ARDUINO   •   AUTOMOTIVE</text>
+    <text class="label" x="590" y="224">ARCHITECTURE   •   AUTOMATION   •   MECHATRONICS</text>
+  </g>
+
+  <g transform="translate(1086 145)">
+    <ellipse class="orb" cx="0" cy="0" rx="128" ry="45" transform="rotate(-20)"/>
+    <ellipse class="orb" cx="0" cy="0" rx="128" ry="45" transform="rotate(54)"/>
+    <ellipse class="orb" cx="0" cy="0" rx="88" ry="30" transform="rotate(90)" opacity=".6"/>
+    <circle cx="0" cy="0" r="118" fill="url(#glow)" opacity=".3"/>
+  </g>
+
+  <g class="cube" filter="url(#softGlow)">
+    <g class="cubeCore">
+      <polygon points="1086,90 1152,113 1152,181 1086,205 1020,181 1020,113" fill="#0f172a" stroke="url(#edge)" stroke-width="2"/>
+      <polygon points="1086,90 1152,113 1086,139 1020,113" fill="#22d3ee" fill-opacity=".78" stroke="#a5f3fc" stroke-width="1.5"/>
+      <polygon points="1020,113 1086,139 1086,205 1020,181" fill="#8b5cf6" fill-opacity=".78" stroke="#ddd6fe" stroke-width="1.5"/>
+      <polygon points="1086,139 1152,113 1152,181 1086,205" fill="#2563eb" fill-opacity=".78" stroke="#bfdbfe" stroke-width="1.5"/>
+      <path d="M1042 121L1062 129L1062 149L1042 141ZM1070 132L1080 136L1080 156L1070 152Z" fill="#e0f2fe" fill-opacity=".85"/>
+      <path d="M1098 143L1118 135L1118 155L1098 163ZM1126 132L1136 128L1136 148L1126 152Z" fill="#dbeafe" fill-opacity=".85"/>
+      <path d="M1038 164L1058 172L1058 192L1038 184ZM1066 175L1076 179L1076 199L1066 195Z" fill="#ede9fe" fill-opacity=".85"/>
+    </g>
+  </g>
+
+  <g class="scanner" opacity=".8">
+    <path d="M983 145H1184" stroke="#67e8f9" stroke-width="1.5" stroke-dasharray="5 9"/>
+    <circle cx="1001" cy="145" r="3" fill="#67e8f9"/>
+    <circle cx="1170" cy="145" r="3" fill="#67e8f9"/>
+  </g>
+
+  <g class="pulse">
+    <rect x="42" y="254" width="238" height="22" rx="11" fill="#0f172a" fill-opacity=".7" stroke="#164e63"/>
+    <circle cx="59" cy="265" r="4" fill="#22d3ee"/>
+    <text class="label" x="72" y="269" text-anchor="start">SYSTEM STATUS: BUILDING</text>
+  </g>
+  <path d="M290 265H1012" stroke="url(#cyanLine)" stroke-width="1" opacity=".45"/>
+  <circle cx="1318" cy="265" r="5" fill="#a78bfa" opacity=".8"/>
+</svg>
